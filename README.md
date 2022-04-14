@@ -1,6 +1,6 @@
 ### Olá eu me chamo Gutemberg Lamark!!!
 
-- 🔭 Atualmente estou trabalhando com Suporte ao Usuário
+- 🔭 Atualmente estou estudando desenvolvimento FullStack na Kenzie Academy
 - 🌱 Estou estudando as tecnologias HTML, CSS, JavaScript e React
 - 👯 Gostaria de colaborar em projetos Front-end
 - 📫 Contate-me no e-mail: gtmbrglamark@gmail.com
