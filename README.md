@@ -1,6 +1,6 @@
 ### Olá eu me chamo Gutemberg Lamark!!!
 
-- 🔭 Atualmente estou trabalhando como desenvolvedor Front End na OKN Group
+- 🔭 Atualmente estou trabalhando como Desenvolvedor na OKN Group
 - 🌱 Estou estudando as tecnologias HTML, CSS, JavaScript, React, Typescript, NextJs, React Native, Angular
 - 👯 Gostaria de colaborar em projetos Front-end
 - 📫 Contate-me no e-mail: gtmbrglamark@gmail.com
